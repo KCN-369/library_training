@@ -1,0 +1,5 @@
+it's , 2/2/2026
+1) git and github learning 
+targeted :-
+2) python mid - 15
+3) numpy easy - 15 and mid - 5
